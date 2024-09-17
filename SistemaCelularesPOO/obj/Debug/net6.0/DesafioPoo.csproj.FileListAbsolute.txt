@@ -1,0 +1,14 @@
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.AssemblyInfoInputs.cache
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.AssemblyInfo.cs
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaCelularesPOO\bin\Debug\net6.0\DesafioPoo.exe
+C:\Projetos\SistemaCelularesPOO\bin\Debug\net6.0\DesafioPoo.deps.json
+C:\Projetos\SistemaCelularesPOO\bin\Debug\net6.0\DesafioPoo.runtimeconfig.json
+C:\Projetos\SistemaCelularesPOO\bin\Debug\net6.0\DesafioPoo.dll
+C:\Projetos\SistemaCelularesPOO\bin\Debug\net6.0\DesafioPoo.pdb
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.dll
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\refint\DesafioPoo.dll
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.pdb
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\DesafioPoo.genruntimeconfig.cache
+C:\Projetos\SistemaCelularesPOO\obj\Debug\net6.0\ref\DesafioPoo.dll
